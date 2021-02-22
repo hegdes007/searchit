@@ -2,7 +2,7 @@
 
 **You can check the working of this app here.**
 
-✅ [Live site]().
+✅ [Live site](https://friendly-newton-b1cdb9.netlify.app).
 
 **Description:**
 
